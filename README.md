@@ -3,7 +3,7 @@
 ## Description
 14,592 Videos-Fire Data. The data includes indoor scenes and outdoor scenes. The data covers multiple scenes, multiple shooting angles, multiple collecting time, multiple resolution. The data can be used for tasks such as fire detection, fire identification tasks, etc.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1243?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1243?source=Github
 
 
 ## Data size
